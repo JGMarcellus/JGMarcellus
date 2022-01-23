@@ -1,3 +1,4 @@
-- 👋 Hi, I’m @JGMarcellus
-- 👀 I’m interested in AI, Data Science, Machine Learning, and Statistical Analysis.
-- 📫 https://www.linkedin.com/in/jackmarcellus/
+- Hi, I’m Jack Marcellus
+- I'm a student at UNC Chapel Hill
+- I’m interested in AI, Data Science, Machine Learning, and Statistical Analysis.
+- https://www.linkedin.com/in/jackmarcellus/
